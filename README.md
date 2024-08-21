@@ -22,9 +22,8 @@ In a Unix terminal, the following commands can be run to obtain the repository a
 git clone https://github.com/Newton-Climate/CarbonFlexBayes
 cd CarbonFlexBayes
 
-# Build the environment
 conda env create -f environment.yml
-conda activate carbon-flex-bayes# Installation Instructions
+conda activate carbon-flex-bayes
 ```
 
 # Repository Contents
