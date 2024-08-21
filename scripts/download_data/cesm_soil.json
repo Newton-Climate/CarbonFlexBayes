@@ -1,0 +1,26 @@
+{
+    "output_dir": "../../data/raw/CESM/",
+    "project": "CMIP6",
+    "experiment": "historical",
+    "variables": [
+        "cSoil", 
+        "cSoilFast", 
+        "cSoilMedium", 
+        "cSoilSlow", 
+        "c14Soil", 
+        "tas", 
+        "pr", 
+        "npp", 
+        "c14Veg", 
+        "gppc14", 
+        "rhSoil", 
+        "rhc14"
+    ],
+    "frequency": "mon",
+    "model": "CESM2",
+    "realm": "land",
+    "ensemble": "r8i1p1f1",
+    "start_date": "1950-01-01",
+    "end_date": "1999-12-31",
+    "latest": true
+}
